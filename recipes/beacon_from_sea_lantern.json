@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GGG",
+      "GSG",
+      "OOO"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:sea_lantern"
+      },
+      "G": {
+        "item": "minecraft:glass"
+      },
+      "O": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "result": {
+      "item": "minecraft:beacon"
+    }
+  }

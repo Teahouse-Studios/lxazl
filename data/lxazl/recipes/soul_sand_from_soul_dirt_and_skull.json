@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SSS", "SMS", "SSS"],
+  "key": {
+    "S": { "item": "minecraft:soul_sand" },
+    "M": { "tag": "lxazl:skull" }
+  },
+  "result": {
+    "item": "minecraft:structure_block"
+  }
+}

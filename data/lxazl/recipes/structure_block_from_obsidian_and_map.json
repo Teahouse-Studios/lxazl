@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["OOO", "OSO", "OOO"],
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "S": { "item": "minecraft:map" }
+  },
+  "result": {
+    "item": "minecraft:structure_block"
+  }
+}

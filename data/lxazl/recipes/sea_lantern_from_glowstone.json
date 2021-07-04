@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PGP", "GPG", "PGP"],
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+      "item": "minecraft:sea_lantern"
+  }
+}

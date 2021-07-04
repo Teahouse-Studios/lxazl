@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["NNN", "NLN", "NNN"],
+  "key": {
+    "N": { "item": "minecraft:netherrack" },
+    "L": { "item": "minecraft:lava_bucket" }
+  },
+  "result": {
+    "item": "minecraft:magma_block"
+  }
+}

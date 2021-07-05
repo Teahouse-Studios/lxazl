@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["SSS", "SMS", "SSS"],
   "key": {
-    "S": { "item": "minecraft:soul_sand" },
+    "S": { "item": "minecraft:soul_dirt" },
     "M": { "tag": "lxazl:skull" }
   },
   "result": {
-    "item": "minecraft:structure_block"
+    "item": "minecraft:soul_sand"
   }
 }

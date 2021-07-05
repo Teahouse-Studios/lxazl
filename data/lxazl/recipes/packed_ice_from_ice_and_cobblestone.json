@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["iii", "ici", "iii"],
+  "key": {
+    "i": {
+      "item": "minecraft:ice"
+    },
+    "c": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:packed_ice",
+    "count": 1
+  }
+}

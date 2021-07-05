@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["sss", "sps", "sss"],
+  "key": {
+    "s": {
+      "item": "minecraft:stone_bricks"
+    },
+    "p": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:purpur_block",
+    "count": 1
+  }
+}

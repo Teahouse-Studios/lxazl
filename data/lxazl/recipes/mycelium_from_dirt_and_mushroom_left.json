@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["m ", "d "],
+  "key": {
+    "d": {
+      "tag": "minecraft:dirt"
+    },
+    "m": {
+      "tag": "lxazl:mushroom"
+    }
+  },
+  "result": {
+    "item": "minecraft:mycelium",
+    "count": 1
+  }
+}
